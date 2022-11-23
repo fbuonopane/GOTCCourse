@@ -1,0 +1,12 @@
+Name: NetLogic
+Type: FolderType
+Children:
+- Name: ClockLogic
+  Type: NetLogic
+  WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel
+  Children:
+  - Name: Time
+    Id: g=b02d2bbe69fcbc3b91dcee7b11fdfcb4
+    Type: BaseDataVariableType
+    DataType: DateTime
+    Value: "1601-01-01T00:00:00.0000000"

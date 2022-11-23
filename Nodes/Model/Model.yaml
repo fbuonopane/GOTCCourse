@@ -1,0 +1,33 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: VariableBlue1
+  Id: g=87850c8881b7c161e8ac5d3018483284
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: VariableBlue2
+  Id: g=4c701878384ebf1a79dd91356f54b9e9
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: VariableBlue3
+  Id: g=44ccbc39aaa2be33558d15e59e2f46eb
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: VariableGreen1
+  Id: g=9615ce82bc99d8eff776100b80f56a6a
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: VariableGreen2
+  Id: g=987d1cdc4238dea397dd7689ca53c253
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: VariableGreen3
+  Id: g=27aedafec451367dd95c203f43b5cba3
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
